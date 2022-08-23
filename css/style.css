@@ -1,0 +1,38 @@
+h1{
+    color: red;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;}
+
+h2{
+    color: darkorchid;
+    text-align: center;
+}
+
+h4{
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+a:active{
+    color: pink;
+    position: relative;
+}
+
+a.test:hover {
+    color: pink;
+}
+   
+ul{
+    list-style: inside;
+    text-align: center;
+}
+
+img{
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+menu ol li{
+    list-style-position: inside;
+    display: inline;
+}
